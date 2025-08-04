@@ -6,7 +6,7 @@
 
 ---
 
-### 👩🏻‍💻 About Me
+### 👩🏻‍💻| About Me
 
 - 🎓 Student at Bhagwan Parshuram Institute of Technology (BPIT).
 - 💡 Passionate about tech & design.
@@ -15,7 +15,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰| Tech Stack
 
 | Languages | Tools & Platforms | Interests |
 |----------|------------------|------------|
@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Projects I’ve Built
+### 🚀| Projects I’ve Built
 
 - 📄 **Login Page** – Clean & responsive authentication interface  
 - 🖼️ **Digital Scrapbook App** – Store memories with style  
@@ -31,13 +31,15 @@
 
 ---
 
-### 📊 GitHub Insights
+### 📊| GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishthaasood&show_icons=true&theme=github_dark" width="47%" />
 </p>
 
-### 📫 Let's Connect
+---
+
+### 📫| Let's Connect
 
 - 🔗[LinkedIn](www.linkedin.com/in/nishtha-sood-53a75a306)  
 - 📧[Email](mailto:soodnishtha12462@gmail.com)
