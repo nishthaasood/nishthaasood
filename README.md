@@ -19,7 +19,7 @@
 
 | Languages | Tools & Platforms | Interests |
 |----------|------------------|------------|
-| 🧠 C++, HTML, CSS, JavaScript | 🛠️ VS Code, Git, GitHub, Figma | 🎨 Web Dev, UI/UX, Problem Solving |
+| 🧠 C++, HTML, CSS, JavaScript | 🛠️ VS Code, Git, GitHub | 🎨 Web Dev, UI/UX, Problem Solving |
 
 ---
 
