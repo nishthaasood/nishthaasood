@@ -27,7 +27,8 @@
 
 - 📄 **Login Page** – Clean & responsive authentication interface  
 - 🖼️ **Digital Scrapbook App** – Store memories with style  
-- 💝 **Donation Site** – Minimal & impactful platform to help others  
+- 💝 **Donation Site** – Minimal & impactful platform to help others
+- 🖼️ **RoomieMatch** - A site for college students to easily find a room/roommate
 
 ---
 
