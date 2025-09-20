@@ -42,7 +42,7 @@
 
 ### 📫| Let's Connect
 
-- 🔗[LinkedIn](www.linkedin.com/in/nishtha-sood-53a75a306)  
+- 🔗[LinkedIn](https://www.linkedin.com/in/nishtha-sood-53a75a306)  
 - 📧[Email](mailto:soodnishtha12462@gmail.com)
 - 📸[Instagram](https://www.instagram.com/nishthasood7?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
