@@ -29,7 +29,7 @@
 
 ### 🗞 DELHI DEV MAKES IT LOOK EASY — SOURCES SAY IT'S NOT
 
-**BPIT, Delhi** — In what experts are calling "genuinely impressive for a sophomore," Nishtha Sood, CS undergrad and self-described design nerd, has continued building projects that *actually look good* while simultaneously battling Data Structures & Algorithms in C++.
+**BPIT, Delhi** — In what experts are calling "genuinely impressive for a sophomore," Nishtha Sood, IT undergrad and self-described design nerd, has continued building projects that *actually look good* while simultaneously battling Data Structures & Algorithms in C++.
 
 Witnesses report seeing her redesign a UI at midnight "just because it didn't feel right," before submitting a pull request at 1am — earning her the coveted **Pull Shark** badge in the process.
 
@@ -48,7 +48,7 @@ Miss Sood is currently accepting collabs, feedback, and chai recommendations.
 
 ```
 Name      Nishtha Sood
-College   BPIT, Delhi (CSE)
+College   BPIT, Delhi (IT)
 Status    Sophomore. Thriving.
 Mood      Caffeinated
 
@@ -58,7 +58,7 @@ Weakness  Starting side projects
           at midnight
 Strength  Finishing them anyway
 
-Currently Building  → RoomieMatch
+Currently Building  → ClashIQ
 Currently Learning  → C++ DSA
 Currently Needing   → 8hrs sleep
 ```
