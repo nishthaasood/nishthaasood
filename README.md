@@ -176,7 +176,7 @@ get better everyday
 
 <div align="center">
 
-### 🐍 SNAKE EATING MY CONTRIBUTION HEATMAP
+### 🐍 MY CONTRIBUTION HEATMAP 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishthaasood/nishthaasood/output/github-contribution-grid-snake-dark.svg"/>
@@ -185,8 +185,6 @@ get better everyday
 </picture>
 
 </div>
-
-> **⚙️ One-time snake setup:** In your `nishthaasood/nishthaasood` repo → create `.github/workflows/snake.yml` → paste the workflow from [Platane/snk](https://github.com/Platane/snk) → run it once manually. Snake appears forever. 🐍
 
 ---
 
