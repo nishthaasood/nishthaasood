@@ -190,25 +190,6 @@ get better everyday
 
 <div align="center">
 
-### 🎭 MY SEMESTER IN COMMITS
-
-```
-Week 1  →  "this is going to be a productive semester"
-Week 3  →  "slight detour but still on track"  
-Week 5  →  "everything is fine"
-Week 7  →  "aaaaaa"
-Week 9  →  "fix"
-Week 11 →  "FINAL fix"
-Week 13 →  "ACTUAL final fix please god"
-Exams   →  [no commits. only chaos. only chai.]
-```
-
-</div>
-
----
-
-<div align="center">
-
 ### 📡 FIND ME
 
 <br>
