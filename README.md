@@ -119,7 +119,7 @@ Currently Needing   → 8hrs sleep
 Find a room, find a roommate,
 don't find chaos
 <br><br>
-`HTML` `CSS` `JS`
+`HTML` `CSS` `REACT` 
 
 </td>
 <td align="center" width="25%">
@@ -128,7 +128,7 @@ don't find chaos
 Store memories
 with actual style
 <br><br>
-`React` `CSS`
+`React` `CSS` `REACT`
 
 </td>
 <td align="center" width="25%">
@@ -137,7 +137,7 @@ with actual style
 Minimal UI,
 maximum impact
 <br><br>
-`HTML` `CSS` `JS`
+`HTML` `CSS` `JS` 
 
 </td>
 <td align="center" width="25%">
@@ -146,7 +146,7 @@ maximum impact
 Debate with AI, 
 get better everyday
 <br><br>
-`HTML` `CSS`
+`HTML` `CSS` `REACT`
 
 </td>
 </tr>
