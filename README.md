@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+the+web,+one+line+of+code+at+a+time.;BPIT+CSE+%7C+Currently+surviving+DSA.;I+build+things+that+spark+something.;&center=true&width=600&height=50&color=FF4B7B&vCenter=true&loop=true&delay=70&pause=1200&size=20"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+the+web,+one+line+of+code+at+a+time.;BPIT+IT+%7C+Currently+surviving+DSA.;I+build+things+that+spark+something.;&center=true&width=600&height=50&color=FF4B7B&vCenter=true&loop=true&delay=70&pause=1200&size=20"/>
 
 </div>
 
