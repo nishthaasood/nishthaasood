@@ -49,7 +49,7 @@ Miss Sood is currently accepting collabs, feedback, and chai recommendations.
 ```
 Name      Nishtha Sood
 College   BPIT, Delhi (IT)
-Status    Sophomore. Thriving.
+Status    Thriving.
 Mood      Caffeinated
 
 Passion   WebDev + UI/UX
